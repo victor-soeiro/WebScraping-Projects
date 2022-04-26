@@ -1,4 +1,6 @@
-Anime-Planet WebScraper
+<img src="cover.jpg" style="margin-top: 20px; margin-bottom: 20px; width: 800px">
+
+Anime-Planet - WebScraping Projects
 =================
 
 Introduction
@@ -12,14 +14,19 @@ The acquired data it's a great database for EDA and Recommender Systems with Con
 
 > **Disclaimer:** This is a personal project to practice webscraping skills and exploratory data analysis. I do not recommend to use for other purposes. Use it at your own risk.
 
-Libraries Used
----------
-* **Requests** 
-* **bs4** (BeautifulSoup) for HTML extraction.
-* **Pandas** to file handling.
-* **NumPy** to the nullable values.
-* **TQDM** for the progress bar on the scraper process.
-* **time** to delay the requests
+Data Description
+----------------
+
+#### `data.csv`
+
+| variable    | class   | description                 |
+| :---------- | :------ | :---------------------------|
+| title       | string  | Name of the manga           |
+| description | string  | Description of the manga    |
+| rating      | float   | Average rating of all users |
+| year        | integer | Released year               |
+| tags        | list    | Tags of the manga           |
+| cover       | string  | Link to manga cover         |
 
 Licence
 ---------
