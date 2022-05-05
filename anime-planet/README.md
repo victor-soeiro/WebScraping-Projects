@@ -1,4 +1,4 @@
-<img src="cover.jpg" style="margin-top: 20px; margin-bottom: 20px; width: 800px">
+<img src="https://steemitimages.com/DQmeRTV7T2QwH73NyV7y8XU96HuBrLXnHHiedMCFw8ZPBnr/FBPcover.png" width="100%">
 
 Anime-Planet - WebScraping Projects
 =================

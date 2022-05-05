@@ -11,11 +11,15 @@ Over the years, WebScraping became a personal hobby to me, a fun challenge to pr
 Projects Description
 --------------------
 
-| projects     | category | link                                                                                 |
-| :----------- | :------- | :----------------------------------------------------------------------------------- |
-| anime-planet | comics   | [Link](https://github.com/victor-soeiro/WebScraping-Projects/tree/main/anime-planet) |
-| tapas        | comics   | [Link](https://github.com/victor-soeiro/WebScraping-Projects/tree/main/tapas)        |
-| toomics      | comics   | [Link](https://github.com/victor-soeiro/WebScraping-Projects/tree/main/toomics)      |
+| id | projects     | category | link                                                                                 |
+| :--| :----------- | :------- | :----------------------------------------------------------------------------------- |
+| 01 | anime-planet | comics   | [Link](https://github.com/victor-soeiro/WebScraping-Projects/tree/main/anime-planet) |
+| 02 | tapas        | comics   | [Link](https://github.com/victor-soeiro/WebScraping-Projects/tree/main/tapas) |
+| 03 | toomics      | comics   | [Link](https://github.com/victor-soeiro/WebScraping-Projects/tree/main/toomics) |
+| 04 | jmlr         | articles | [Link](https://github.com/victor-soeiro/WebScraping-Projects/tree/main/journal-of-machine-learning-research) |
+| 05 | webtoons     | comics   | [Link](https://github.com/victor-soeiro/WebScraping-Projects/tree/main/webtoons) |
+| 06 | afk-arena    | games    | [Link](https://github.com/victor-soeiro/WebScraping-Projects/tree/main/afk-arena) |
+| 07 | 
 
 
 Licence
