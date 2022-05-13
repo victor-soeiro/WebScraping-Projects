@@ -1,0 +1,25 @@
+{
+    "operationName": "GetPopularTitles",
+    "variables": {
+        "popularTitlesSortBy": "POPULAR",
+        "first": 120,
+        "sortRandomSeed": 0,
+        "popularAfterCursor": "",
+        "popularTitlesFilter": {
+              "ageCertifications": [],
+              "excludeGenres": [],
+              "excludeProductionCountries": [],
+              "genres": [],
+              "objectTypes": [],
+              "productionCountries": [],
+              "packages": [],
+              "excludeIrrelevantTitles": false,
+              "presentationTypes": [],
+              "monetizationTypes": []
+        },
+        "language": "en",
+        "country": "US",
+		"platform": "WEB"
+    },
+    "query": ""
+}

@@ -16,10 +16,11 @@ Projects Description
 | 01 | anime-planet | comics | [Link](https://github.com/victor-soeiro/WebScraping-Projects/tree/main/anime-planet) | [Link](https://www.kaggle.com/datasets/victorsoeiro/manga-manhwa-and-manhua-dataset)
 | 02 | tapas | comics | [Link](https://github.com/victor-soeiro/WebScraping-Projects/tree/main/tapas) | [Link](https://www.kaggle.com/datasets/victorsoeiro/tapas-webtoons)
 | 03 | toomics | comics | [Link](https://github.com/victor-soeiro/WebScraping-Projects/tree/main/toomics) | 
-| 04 | jmlr | articles | [Link](https://github.com/victor-soeiro/WebScraping-Projects/tree/main/journal-of-machine-learning-research) | [Link](https://www.kaggle.com/datasets/victorsoeiro/papers-on-journal-of-machine-learning-research)
+| 04 | jmlr | articles | [Link](https://github.com/victor-soeiro/WebScraping-Projects/tree/main/journal-of-machine-learning-research) | [Link](https://www.kaggle.com/datasets/victorsoeiro/papers-on-journal-of-machine-learning-research) 
 | 05 | webtoons | comics | [Link](https://github.com/victor-soeiro/WebScraping-Projects/tree/main/webtoons) | [Link](https://www.kaggle.com/datasets/victorsoeiro/webtoons-dataset)
 | 06 | afk-arena | games | [Link](https://github.com/victor-soeiro/WebScraping-Projects/tree/main/afk-arena) | 
-| 07 | 
+| 07 | arknights | games | [Link](https://github.com/victor-soeiro/WebScraping-Projects/tree/main/arknights) | |
+| 08 | justwatch | streaming | [Link](https://github.com/victor-soeiro/WebScraping-Projects/tree/main/justwatch) |  |
 
 
 Licence
