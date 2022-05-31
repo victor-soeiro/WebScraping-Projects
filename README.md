@@ -18,9 +18,10 @@ Projects Description
 | 03 | toomics | comics | [Link](https://github.com/victor-soeiro/WebScraping-Projects/tree/main/toomics) | 
 | 04 | jmlr | articles | [Link](https://github.com/victor-soeiro/WebScraping-Projects/tree/main/journal-of-machine-learning-research) | [Link](https://www.kaggle.com/datasets/victorsoeiro/papers-on-journal-of-machine-learning-research) 
 | 05 | webtoons | comics | [Link](https://github.com/victor-soeiro/WebScraping-Projects/tree/main/webtoons) | [Link](https://www.kaggle.com/datasets/victorsoeiro/webtoons-dataset)
-| 06 | afk-arena | games | [Link](https://github.com/victor-soeiro/WebScraping-Projects/tree/main/afk-arena) | 
+| 06 | afk-arena | games | [Link](https://github.com/victor-soeiro/WebScraping-Projects/tree/main/afk-arena) | |
 | 07 | arknights | games | [Link](https://github.com/victor-soeiro/WebScraping-Projects/tree/main/arknights) | |
 | 08 | justwatch | streaming | [Link](https://github.com/victor-soeiro/WebScraping-Projects/tree/main/justwatch) |  |
+| 09 | funko pop | collectibles | [Link](https://github.com/victor-soeiro/WebScraping-Projects/tree/main/funko-pop)| |
 
 
 Licence
