@@ -51,6 +51,7 @@ Below are all the projects I have done with the links. I hope you have a lot of 
 ¹: Each streaming contains a link. Below is a list of all the streamings links:
 
 |  streamings  | kaggle                                                                                |
+|:------------:|---------------------------------------------------------------------------------------|
 |    hbo max   | [Link](https://www.kaggle.com/datasets/victorsoeiro/hbo-max-tv-shows-and-movies)      |
 |     hulu     | [Link](https://www.kaggle.com/datasets/victorsoeiro/hulu-tv-shows-and-movies)         |
 |    netflix   | [Link](https://www.kaggle.com/datasets/victorsoeiro/netflix-tv-shows-and-movies)      |                                                                                               
