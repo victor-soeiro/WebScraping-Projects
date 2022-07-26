@@ -26,21 +26,21 @@ Remember, respect the request limit of the site to not cause any harm.
 Projects Description
 --------------------
 
-> You can recommend me any site to be part of this project, just send me an e-mail with the site and the reason to be part of it.
+> You can recommend me any site to be part of this project, just send me an e-mail with the site and the reason to be part of this repository.
 
 Below are all the projects I have done with the links. I hope you have a lot of fun.
 
 |    |   projects   |   category   | github                                                                                    | kaggle                                                                                              |
 |----|:------------:|:------------:|-------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------|
-| 01 | anime-planet |    comics    | [Link](https://github.com/victor-soeiro/WebScraping-Projects/tree/main/01 - anime-planet) | [Link](https://www.kaggle.com/datasets/victorsoeiro/manga-manhwa-and-manhua-dataset)                |
-| 02 |     tapas    |    comics    | [Link](https://github.com/victor-soeiro/WebScraping-Projects/tree/main/02 - tapas)        | [Link](https://www.kaggle.com/datasets/victorsoeiro/tapas-webtoons)                                 |
-| 03 |    toomics   |    comics    | [Link](https://github.com/victor-soeiro/WebScraping-Projects/tree/main/03 - toomics)      | [Link](https://www.kaggle.com/datasets/victorsoeiro/toomics)                                        |
-| 04 |     jmlr     |   articles   | [Link](https://github.com/victor-soeiro/WebScraping-Projects/tree/main/04 - jmlr)         | [Link](https://www.kaggle.com/datasets/victorsoeiro/papers-on-journal-of-machine-learning-research) |
-| 05 |   webtoons   |    comics    | [Link](https://github.com/victor-soeiro/WebScraping-Projects/tree/main/05 - webtoons)     | [Link](https://www.kaggle.com/datasets/victorsoeiro/webtoons-dataset)                               |
-| 06 |   afk-arena  |     games    | [Link](https://github.com/victor-soeiro/WebScraping-Projects/tree/main/06 - afk-arena)    |                                                                                                     |
-| 07 |   arknights  |     games    | [Link](https://github.com/victor-soeiro/WebScraping-Projects/tree/main/07 - arknights)    | [Link](https://www.kaggle.com/datasets/victorsoeiro/arknights-operators)                            |
-| 08 |   justwatch  |  streamings  | [Link](https://github.com/victor-soeiro/WebScraping-Projects/tree/main/08 - justwatch)    | Multiple Links¹                                                                                     |
-| 09 |   funko pop  | collectibles | [Link](https://github.com/victor-soeiro/WebScraping-Projects/tree/main/09 - funko-pop)    | [Link](https://www.kaggle.com/datasets/victorsoeiro/funko-pop-dataset)                              |
+| 01 | anime-planet |    comics    | [Link](https://github.com/victor-soeiro/WebScraping-Projects/tree/main/01%20-%20anime-planet) | [Link](https://www.kaggle.com/datasets/victorsoeiro/manga-manhwa-and-manhua-dataset)                |
+| 02 |     tapas    |    comics    | [Link](https://github.com/victor-soeiro/WebScraping-Projects/tree/main/02%20-%20tapas)        | [Link](https://www.kaggle.com/datasets/victorsoeiro/tapas-webtoons)                                 |
+| 03 |    toomics   |    comics    | [Link](https://github.com/victor-soeiro/WebScraping-Projects/tree/main/03%20-%20toomics)      | [Link](https://www.kaggle.com/datasets/victorsoeiro/toomics)                                        |
+| 04 |     jmlr     |   articles   | [Link](https://github.com/victor-soeiro/WebScraping-Projects/tree/main/04%20-%20jmlr)         | [Link](https://www.kaggle.com/datasets/victorsoeiro/papers-on-journal-of-machine-learning-research) |
+| 05 |   webtoons   |    comics    | [Link](https://github.com/victor-soeiro/WebScraping-Projects/tree/main/05%20-%20webtoons)     | [Link](https://www.kaggle.com/datasets/victorsoeiro/webtoons-dataset)                               |
+| 06 |   afk-arena  |     games    | [Link](https://github.com/victor-soeiro/WebScraping-Projects/tree/main/06%20-%20afk-arena)    |                                                                                                     |
+| 07 |   arknights  |     games    | [Link](https://github.com/victor-soeiro/WebScraping-Projects/tree/main/07%20-%20arknights)    | [Link](https://www.kaggle.com/datasets/victorsoeiro/arknights-operators)                            |
+| 08 |   justwatch  |  streamings  | [Link](https://github.com/victor-soeiro/WebScraping-Projects/tree/main/08%20-%20justwatch)    | Multiple Links¹                                                                                     |
+| 09 |   funko pop  | collectibles | [Link](https://github.com/victor-soeiro/WebScraping-Projects/tree/main/09%20-%20funko-pop)    | [Link](https://www.kaggle.com/datasets/victorsoeiro/funko-pop-dataset)                              |
 | 10 |      a24     |    movies    |           |                                                                                                     |
 | 11 |              |              |                                                                                           |                                                                                                     |
 | 12 |              |              |                                                                                           |                                                                                                     |
